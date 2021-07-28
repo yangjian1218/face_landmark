@@ -1,0 +1,3 @@
+D:/AI/Face/Face_detect/RetinaFace-Cpp/Demo/ncnn/out/build/x64-Debug/CMakeFiles/retinaface_ncnn.dir
+D:/AI/Face/Face_detect/RetinaFace-Cpp/Demo/ncnn/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/AI/Face/Face_detect/RetinaFace-Cpp/Demo/ncnn/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,59 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.6"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "retinaface_ncnn",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "retinaface_ncnn::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-retinaface_ncnn-Debug-9b42f1d59c269049811b.json",
+					"name" : "retinaface_ncnn",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/AI/Face/Face_detect/RetinaFace-Cpp/Demo/ncnn/out/build/x64-Debug",
+		"source" : "D:/AI/Face/Face_detect/RetinaFace-Cpp/Demo/ncnn"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}
